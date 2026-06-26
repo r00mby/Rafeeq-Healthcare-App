@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. Force Light theme to avoid unexpected black backgrounds -->
+    <style name="Base.Theme.HealthCareProject" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/button_blue</item>
+        <item name="android:windowBackground">@color/light_blue_bg</item>
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="Theme.HealthCareProject" parent="Base.Theme.HealthCareProject" />
+
+    <style name="CustomCalendarTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorAccent">#3498AB</item>
+        <item name="android:colorControlActivated">#3498AB</item>
+    </style>
+</resources>

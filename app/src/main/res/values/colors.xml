@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue_bg">#EAF6FF</color>
+    <color name="dark_text">#333333</color>
+    <color name="teal_button">#009688</color>
+    <color name="white">#FFFFFF</color>
+    <color name="header_blue">#34648C</color>
+    <color name="bg_light_gray">#F2F2F2</color>
+    <color name="text_black">#1A1A1A</color>
+    <color name="button_blue">#3498AB</color>
+    <color name="button_red">#E57373</color>
+</resources>
