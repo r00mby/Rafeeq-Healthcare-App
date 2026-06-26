@@ -92,10 +92,10 @@ My responsibilities included:
 ![Register](screenshots/register.png)
 
 ### Caregiver Home
-![Caregiver Home](screenshots/caregiver-home.png)
+![Caregiver Home](screenshots/caregiverhome.png)
 
 ### Client Home
-![Client Home](screenshots/client.png)
+![Client Home](screenshots/clienthome.png)
 
 ---
 
