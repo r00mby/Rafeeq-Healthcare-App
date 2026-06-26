@@ -101,11 +101,12 @@ My responsibilities included:
 
 ## Database
 
-This project uses *Firebase Realtime Database* for:
-- User data storage  
-- Appointment management  
-- Service listings  
+This project uses Firebase Realtime Database to store and manage:
 
+- Client and Caregiver user data
+- Appointment bookings
+- Notifications (reports-related only)
+- User reports
 ---
 
 ## Note
