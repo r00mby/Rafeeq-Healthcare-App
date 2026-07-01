@@ -1,4 +1,4 @@
-# Rafeeq: Healthcare App
+# Rafeeq: Caregiving App
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-Rafeeq is an Android healthcare application developed as a *Graduation Project* by a team of five students. The application connects users with caregivers through a simple and user-friendly interface, allowing users to register, log in, browse healthcare services, and book appointments.
+Rafeeq is an Android Caregiving application developed as a *Graduation Project* by a team of five students. The application connects users with caregivers through a simple and user-friendly interface, allowing users to register, log in, browse healthcare services, and book appointments.
 
 The application was built using *Java, **Android Studio, **Firebase Authentication, and **Firebase Realtime Database*.
 
